@@ -1,4 +1,5 @@
 {
   "version": "3.7.0.1",
-  "url": "https://raw.githubusercontent.com/Jl0pq/novella-updates/main/builds/3.7.0.1/update_3.7.0.1.zip"
+  "windows_url": "https://raw.githubusercontent.com/Jl0pq/novella-updates/main/builds/3.8.0.0/win_update_3.7.0.1.zip",
+  "mac_url": "https://raw.githubusercontent.com/Jl0pq/novella-updates/main/builds/3.8.0.0/mac_update_3.7.0.1.zip"
 }
